@@ -1,0 +1,16 @@
+{
+  "name": "sriharshamvs_site",
+  "version": "1.0.0",
+  "description": "Harsha's site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "Sriharsha MVS",
+  "license": "ISC",
+  "homepage": "https://sriharshamvs.github.io/sriharshamvs",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
